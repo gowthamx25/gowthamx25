@@ -1,17 +1,21 @@
 # Hi, I’m Gowtham S 👋
 
 ## AI & Data Science Student | Aspiring MLOps Engineer
-<!--
-**gowthamx25/gowthamx25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I build reliable AI systems and meaningful software. My focus is on making Machine Learning practical—from the first line of data cleaning to the final deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently focusing on: MLOps, Backend Engineering, and Scalable AI.
+
+🌱 Learning: Advanced Docker workflows and cloud-native deployments.
+
+⚡ Belief: Simple, responsible design creates the most value.
+
+## 📂 Highlighted Work
+
+Healthcare AI: Automated blood pressure prediction pipelines.
+
+Business Intelligence: Data-driven customer segmentation models.
+
+Computer Vision: Custom object detection implementations.
+
+Web Apps: Full-stack blogging and productivity tools.
