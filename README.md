@@ -17,10 +17,10 @@ I work on building reliable AI systems and meaningful software, turning machine 
 
 ## Projects I’ve Worked On
 
+- **AIERS – Data & Video Reporter** – Automated reporting system for structured data and video-based inputs.
+- **AI Content Creator** – AI-powered course and content generation platform supporting multimodal inputs.  
 - **Employee Attrition Prediction (MLOps)** – End-to-end ML system using Flask and DVC, focusing on reproducibility, versioning, and deployment workflows.  
 - **Customer Segmentation System** – Applied K-Means clustering with model evaluation and a web interface to support data-driven decision making.  
-- **AI Content Creator** – AI-powered course and content generation platform supporting multimodal inputs.  
-- **AIERS – Data & Video Reporter** – Automated reporting system for structured data and video-based inputs.  
 - **Blogging Platform Web App** – Full-stack blogging application built with Node.js and Express using a clean client–server architecture.  
 - **To-Do List Application** – Lightweight front-end application to practice UI logic and user interaction using HTML, CSS, and JavaScript.
 
