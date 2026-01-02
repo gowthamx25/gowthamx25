@@ -16,7 +16,13 @@ I build reliable AI systems and meaningful software. My focus is on making Machi
 *  Web Apps: Full-stack blogging and productivity tools.
 
 
+## Technologies
 
+*  Python, Java, JavaScript  
+*  Machine Learning, Data Analysis  
+*  Flask, FastAPI  
+*  Git, Docker (learning & applying)  
+*  SQL, MongoDB  
 
 ## Looking Ahead
 I’m continuously learning and working towards building dependable AI systems that can make a positive impact in real-world applications.
