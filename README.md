@@ -14,3 +14,11 @@ I build reliable AI systems and meaningful software. My focus is on making Machi
 *  Business Intelligence: Data-driven customer segmentation models.
 *  Computer Vision: Custom object detection implementations.
 *  Web Apps: Full-stack blogging and productivity tools.
+
+
+
+
+## Looking Ahead
+I’m continuously learning and working towards building dependable AI systems that can make a positive impact in real-world applications.
+
+**Thank you for visiting my profile 🙂**
