@@ -4,18 +4,13 @@
 
 I build reliable AI systems and meaningful software. My focus is on making Machine Learning practical—from the first line of data cleaning to the final deployment.
 
-🔭 Currently focusing on: MLOps, Backend Engineering, and Scalable AI.
-
-🌱 Learning: Advanced Docker workflows and cloud-native deployments.
-
-⚡ Belief: Simple, responsible design creates the most value.
+*  🔭 Currently focusing on: MLOps, Backend Engineering, and Scalable AI.
+*  🌱 Learning: Advanced Docker workflows and cloud-native deployments.
+*  ⚡ Belief: Simple, responsible design creates the most value.
 
 ## 📂 Highlighted Work
 
-Healthcare AI: Automated blood pressure prediction pipelines.
-
-Business Intelligence: Data-driven customer segmentation models.
-
-Computer Vision: Custom object detection implementations.
-
-Web Apps: Full-stack blogging and productivity tools.
+*  Healthcare AI: Automated blood pressure prediction pipelines.
+*  Business Intelligence: Data-driven customer segmentation models.
+*  Computer Vision: Custom object detection implementations.
+*  Web Apps: Full-stack blogging and productivity tools.
