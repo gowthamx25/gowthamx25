@@ -1,6 +1,6 @@
-## Hi, I’m Gowtham S 👋
+# Hi, I’m Gowtham S 👋
 
-# AI & Data Science Student | Aspiring MLOps Engineer
+## AI & Data Science Student | Aspiring MLOps Engineer
 <!--
 **gowthamx25/gowthamx25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
