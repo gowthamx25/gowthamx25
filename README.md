@@ -2,9 +2,9 @@
 
 ## AI & Data Science Student | Aspiring MLOps Engineer
 
-I build reliable AI systems and meaningful software. My focus is on making Machine Learning practical—from the first line of data cleaning to the final deployment.
+I work on building reliable AI systems and meaningful software, turning machine learning into something practical from data cleaning to deployment.
 
-*  🔭 Currently focusing on: MLOps, Backend Engineering, and Scalable AI.
+*  🔭 Currently focusing on: MLOps, Backend Engineering and Scalable AI.
 *  🌱 Learning: Advanced Docker workflows and cloud-native deployments.
 *  ⚡ Belief: Simple, responsible design creates the most value.
 
