@@ -8,7 +8,7 @@ I work on building reliable AI systems and meaningful software, turning machine 
 *  🌱 **Learning:** Advanced Docker workflows and cloud-native deployments.
 *  ⚡ **Belief:** Simple, responsible design creates the most value.
 
-## 📂 Highlighted Work
+## Highlighted Work
 
 *  **Healthcare AI:** Automated blood pressure prediction pipelines.
 *  **Business Intelligence:** Data-driven customer segmentation models.
